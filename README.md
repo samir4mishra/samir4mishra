@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Samir Mishra
+- 👀 I’m interested in Python regarding AI-ML , Data Analytics, Web design and web application development technologies and concepts
+- 🌱 Python and working on AI-ML projects available on net
+- 📫 samir4mishra@gmail.com
